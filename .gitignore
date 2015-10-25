@@ -1,0 +1,13 @@
+#Vim
+*~
+*.swp
+
+#Sphinx
+docs/_build
+_build
+
+#Python
+*.pyc
+__pycache__
+_venv
+_pyAssembler
